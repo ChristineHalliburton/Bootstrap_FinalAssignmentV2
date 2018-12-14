@@ -1,0 +1,62 @@
+ @import url('https://fonts.googleapis.com/css?family=Bitter|Montserrat');
+/* You must use a DIFFERENT FONT THAT THIS ONE as your webfont */
+
+/*************************************************
+            DEFAULTS
+*************************************************/
+
+/*************************************************
+            HEADER
+*************************************************/
+header{
+
+	background-image: url("../img/heading.jpg");
+	text-align: center;
+	 vertical-align: bottom;
+	
+	height: 40vh;
+    color: black;
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+}
+   
+.avatar {
+    vertical-align: middle;
+    width: 20vh;
+    height: 20vh;
+    border-radius: 50%;
+}
+
+#myContent{
+	margin-top: 1em;
+	width: 80vw;
+}
+nav{
+	background-color: hsl(0, 1%, 24%);
+}
+.btn{
+	background-color: #A0475B;
+	border: red;
+	border: solid 1px hsl(0, 1%, 24%);
+}
+.tab { margin-left: 20px; }
+
+
+
+
+/*************************************************
+            MAIN CONTENT
+*************************************************/
+
+
+/*************************************************
+            FOOTER
+*************************************************/
+
+/*************************************************
+            MEDIA QUERIES for layout
+*************************************************/
+
+
+    
